@@ -1,6 +1,6 @@
-#### Efficient Storage Solution for Training Data Ltd. Customer Dataset
+# Efficient Storage Solution for Training Data Ltd. Customer Dataset
 ### Overview
-## This project aims to develop an efficient storage solution for Training Data Ltd.'s customer dataset to facilitate faster model training and prediction generation. The dataset provided, customer_train.csv, contains anonymized student information along with indicators of whether they are looking for a new job or not during training.
+ This project aims to develop an efficient storage solution for Training Data Ltd.'s customer dataset to facilitate faster model training and prediction generation. The dataset provided, customer_train.csv, contains anonymized student information along with indicators of whether they are looking for a new job or not during training.
 #### Dataset Description
 The provided dataset includes the following columns:
 
